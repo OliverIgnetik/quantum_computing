@@ -1,4 +1,4 @@
-# quantum_computing
+# Quantum Computing
 Repository for quantum_computing programming practice and resources.
 
 ![image](md_images/bloch_sphere.png)
